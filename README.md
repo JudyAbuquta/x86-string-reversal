@@ -2,7 +2,7 @@
 
 ## Contributors
 - Judy Abuquta
-- [Sara Eid](https://github.com/sarah-eid)
+- [Sarah Eid](https://github.com/sarah-eid)
 - [Abeer Hussain](https://github.com/abeerahrar)
 - Effat University, College of Engineering, Computer Science Department
 - Jeddah, Saudi Arabia
