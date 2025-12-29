@@ -1,7 +1,7 @@
 # String Reversal Using x86 Assembly and Python Interface
 
 ## Contributors
-- [Judy Abuquta](https://github.com/JudyAbuquta)
+- Judy Abuquta
 - [Sara Eid](https://github.com/sarah-eid)
 - [Abeer Hussain](https://github.com/abeerahrar)
 - Effat University, College of Engineering, Computer Science Department
