@@ -1,9 +1,11 @@
 # String Reversal Using x86 Assembly and Python Interface
 
-## Team Members
+## Contributors
 - [Judy Abuquta](https://github.com/JudyAbuquta)
 - [Sara Eid](https://github.com/sarah-eid)
 - [Abeer Hussain](https://github.com/abeerahrar)
+- Effat University, College of Engineering, Computer Science Department
+- Jeddah, Saudi Arabia
 
 ## Project Overview
 This project demonstrates **low-level string manipulation using x86 16-bit assembly language** and its conceptual integration with a **high-level Python interface**.  
@@ -49,3 +51,6 @@ To reverse a string by transferring characters from a source array to a destinat
 Run the Python interface:
 ```bash
 python reverse_com.py
+```
+## License
+This project is for academic research purposes. Please cite appropriately if used.
