@@ -1,5 +1,10 @@
 # String Reversal Using x86 Assembly and Python Interface
 
+## Team Members
+- Judy Abu Quta (@judyabuquta)
+- Sara Ahmed (@sarah-eid)
+- Abeer Hussain (@abeerahrar)
+
 ## Project Overview
 This project demonstrates **low-level string manipulation using x86 16-bit assembly language** and its conceptual integration with a **high-level Python interface**.  
 The core logic is implemented in assembly to highlight memory access, stack operations, and register usage, while Python provides a user-friendly way to interact with and demonstrate the algorithm.
